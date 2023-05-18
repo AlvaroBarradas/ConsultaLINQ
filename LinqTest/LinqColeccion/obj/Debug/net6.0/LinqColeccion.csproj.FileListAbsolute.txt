@@ -1,0 +1,15 @@
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.exe
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.deps.json
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.runtimeconfig.json
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.dll
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\bin\Debug\net6.0\LinqColeccion.pdb
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.AssemblyReference.cache
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfoInputs.cache
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.AssemblyInfo.cs
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.csproj.CoreCompileInputs.cache
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.dll
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\refint\LinqColeccion.dll
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.pdb
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\LinqColeccion.genruntimeconfig.cache
+C:\Users\ABF26\source\repos\LinqTest\LinqColeccion\obj\Debug\net6.0\ref\LinqColeccion.dll
